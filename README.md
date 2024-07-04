@@ -1,2 +1,2 @@
 # Web-Notes
-Notes about Web develop
+Notes about Web development.
